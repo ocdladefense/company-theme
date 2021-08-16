@@ -2,5 +2,7 @@
     "name": "ocdladefense/company-theme",
     "description": "The theme for the company",
     "type": "wordpress-theme",
-    "require": {}
+    "require": {
+        "composer/installers":"~1.0"
+    }
 }
