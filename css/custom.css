@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+#site-header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+#site-footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.nojq{
+    display: none;
+}
+.page .entry-title {
+    display: none;
+    }
